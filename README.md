@@ -1,7 +1,5 @@
 # aspirateur_test_TypeScript
 
-<a name="br1"></a>[www.yanport.com](https://www.yanport.com)
-
 Test Technique - Développeur Full Stack
 
 Description
@@ -48,10 +46,3 @@ Position initiale de l’aspirateur : **x=5 y=5 orientation=N**
 Instructions  : **DADADADAA**
 
 On attend comme position ﬁnale : **x=5 y=6 orientation=N**
-
-*NB : le programme doit pouvoir évoluer facilement en fonction de nouvelles contraintes qui vous seront
-communiquées lors de l’entretien.*
-
-**YANPORT** SAS au capital de 400 000 euros. R.C.S. Nanterre B 753 624 600 00016
-Siège Social: 16, rue Antonin Raynaud 92300 LEVALLOIS PERRET.
-Tel.: +33 (0)1 78 14 02 38 - Email: recrutement@yanport.com
